@@ -1,0 +1,8 @@
+{
+  "name": "Portal Resiliência - Combate à Violência Doméstica",
+  "description": "Uma plataforma profissional e empática dedicada a fornecer informações, suporte e recursos para vítimas de violência doméstica e seus aliados.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
